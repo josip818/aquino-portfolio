@@ -1,16 +1,73 @@
-# React + Vite
+## JAA_GARAGE — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal portfolio website built with React and Vite, featuring a Japanese street-racing-inspired design with a dark aesthetic, red accents, and automotive visuals.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Joseph Angelo Aquino**  
+BS Information Technology — 3E
 
-## React Compiler
+I am an IT student interested in gaming, automotive culture, and programming. I created this portfolio to showcase my background, skills, and projects while continuing to develop my technical knowledge.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+- Home page with a JDM-inspired hero section
+- About page introducing my background and skills
+- Projects page showcasing my work
+- Contact page with my contact information
+- Responsive layout for different screen sizes
+- Navigation between pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Technologies Used
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+
+## Pages
+
+| Page | Description |
+|---|---|
+| Home | Portfolio introduction |
+| About | Personal background and skills |
+| Projects | Featured projects |
+| Contact | Contact information |
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/josip818/aquino-portfolio.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd aquino-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Repository
+
+[View the project on GitHub](https://github.com/josip818/aquino-portfolio)
+
+---
+
+© 2026 JAA_GARAGE. Built with passion, driven by code.
